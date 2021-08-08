@@ -1,5 +1,11 @@
 # OSRSAutoClicker
 
+## Functions
+
+- 2.5s interval
+- Perfect for Camelot teleportation!
+- Easy to use for safespotting monsters.
+
 Before you start, note that you'll need Python3 for it to work properly!
 [Python Download](https://www.python.org/downloads/)
 
