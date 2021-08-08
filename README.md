@@ -14,6 +14,8 @@ Before you start, note that you'll need Python3 for it to work properly!
 
 ## Install Dependencies
 
+Use the `setup.bat` file, or:
+
 In commandprompt type the following:
 
 `pip install pyautogui`, and
