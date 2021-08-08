@@ -23,7 +23,7 @@ In commandprompt type the following:
 
 ## Starting the script.
 
-Open the batch file inside the folder to enable the console.
+Open the **`start.bat`** file inside the folder to enable the console.
 
 ## Keys
 
