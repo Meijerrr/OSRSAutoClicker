@@ -7,6 +7,8 @@
 - ✅ Easy to use for safespotting monsters.
 - ✅ Fail-Safe included, quickly move your mouse to the top left corner of the screen to exit the script!
 
+## NOTE:
+
 **Before you start**, note that you'll need Python3 for it to work properly!
 [Python Download](https://www.python.org/downloads/)
 
